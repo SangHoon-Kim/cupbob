@@ -20,5 +20,6 @@
 	}
 %>
 <P>  The time on the server is ${serverTime}. </P>
+change home.jsp
 </body>
 </html>
